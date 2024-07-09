@@ -6,6 +6,6 @@ int main()
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
-		printf("Jay Shree Ram\n");
+		printf("Jay Shree Ram \n");
 	}
 }
