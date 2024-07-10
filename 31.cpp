@@ -2,7 +2,7 @@
 int main()
 {
 	int a,b,c,d,e;
-	printf("Enter a three digit number = ");
+	printf("Enter a three digit number= ");
 	scanf("%d",&a);
 	
 	b=a%10;
