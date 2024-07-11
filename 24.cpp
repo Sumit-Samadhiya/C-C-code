@@ -6,5 +6,5 @@ int main()
 	scanf("%d",&x);
 	
 	a=x%10;
-	printf("Unit digit = %d",a);
+	printf("Unit digit  = %d",a);
 }
