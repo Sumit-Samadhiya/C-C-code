@@ -11,6 +11,6 @@ int main()
 	}
 	else if(c>='A' && c<='Z')
 	{
-		printf("Upper case");
+		printf("Upper case ");
 	}
 }
